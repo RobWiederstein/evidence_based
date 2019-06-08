@@ -1,3 +1,4 @@
+
 ![Minnesota Evidence-based Inventory](img/2019-06-08_minn_inventory.png)
 
 - [Minnesota Evidence-based Inventory](https://mn.gov/mmb/results-first/inventory/)
