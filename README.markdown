@@ -1,3 +1,7 @@
+![Minnesota Evidence-based Inventory](img/2019-06-08_minn_inventory.png)
+
+- [Minnesota Evidence-based Inventory](https://mn.gov/mmb/results-first/inventory/)
+
 ## What is evidence-based policymaking?
 
 According to the [Pew Foundation](https://www.pewtrusts.org/en), "[e]vidence-based policy making uses the best available research and data on program results to inform government budget, policy and management decisions.  It focuses on what works--those programs that rigorous evaluations have shown to achieve positive outcomes." Their 2015 publication, [Legislating Evidence-Based Policymaking:  A look at state laws that support data-driven decision-making](reports/2015-03-01_pew_legislating_evidence_based_policymaking.pdf), showcases many state initiatives and includes Kentucky.
