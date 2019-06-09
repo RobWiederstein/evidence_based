@@ -40,7 +40,7 @@ The Act requires that
 
 ### Office of State Budget
 
-The Office of State Budget Director is an agency created by statute.  [KRS 11.068](statutes/KRS _ 11.068.pdf).  The Director is appointed by the Governor and serves at the Governor's pleasure.  KRS 11.040.  The state budget director serves on the Governor's executive cabinet. [KRS 11.065](statutes/KRS _ 11.065.pdf).  The Cabinet meets on the call of the Governor, but no less than once every two months.  [KRS 11.065](statutes/KRS _ 11.065.pdf).  The state budget director is one of the Governor's "major assistants" and "shall assist the Governor in the proper operation of the office."  [KRS 11.065](statutes/KRS _ 11.065.pdf).  Being one of the Cabinet, the Office of State Budget shall "advise and consult with the Governor on all matters affecting the welfare of the State."  [KRS 11.065](statutes/KRS _ 11.065.pdf).
+The Office of State Budget Director is an agency created by statute.  [KRS 11.068](statutes/KRS_11.068.pdf).  The Director is appointed by the Governor and serves at the Governor's pleasure.  KRS 11.040.  The state budget director serves on the Governor's executive cabinet. [KRS 11.065](statutes/KRS_11.065.pdf).  The Cabinet meets on the call of the Governor, but no less than once every two months.  [KRS 11.065](statutes/KRS_11.065.pdf).  The state budget director is one of the Governor's "major assistants" and "shall assist the Governor in the proper operation of the office."  [KRS 11.065](statutes/KRS_11.065.pdf).  Being one of the Cabinet, the Office of State Budget shall "advise and consult with the Governor on all matters affecting the welfare of the State."  [KRS 11.065](statutes/KRS_11.065.pdf).
 
 The OSB has the following functions, but they are exclusive:
 
@@ -55,7 +55,7 @@ Governor; and
 3. Staff planning functions of the state planning committee and **evaluation of statewide
 management** and administrative practices and procedures.
 
-[KRS 11.068(emphasis added)](statutes/KRS _ 11.068.pdf).  The Office of State Budget is further divided into three additional office:  (1) Office of Policy and Management which assists with budgeting, planning and regulation review; (2) Office for Policy Research which assists with policy research data, information and anlysis; and (3) Office for Economic Analysis which carries out revenue estimating, economic analysis and tax administration.  [KRS 11.068](statutes/KRS _ 11.068.pdf).
+[KRS 11.068(emphasis added)](statutes/KRS_11.068.pdf).  The Office of State Budget is further divided into three additional office:  (1) Office of Policy and Management which assists with budgeting, planning and regulation review; (2) Office for Policy Research which assists with policy research data, information and anlysis; and (3) Office for Economic Analysis which carries out revenue estimating, economic analysis and tax administration.  [KRS 11.068](statutes/KRS_11.068.pdf).
 
 
 
