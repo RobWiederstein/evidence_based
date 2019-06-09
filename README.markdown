@@ -61,7 +61,7 @@ management** and administrative practices and procedures.
 
 ## Inventory of Evidence-based Programming
 
-### Macauther Results First inventory
+### Pew-MacArthur Results First inventory
 
 ### Minnesota
 
