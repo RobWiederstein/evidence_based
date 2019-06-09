@@ -36,6 +36,31 @@ The Act requires that
 - a Chief Data Council be established with the Office of Management and Budget for establishing government-wide best practices for data.
 
 
+## Kentucky
+
+### Office of State Budget
+
+The Office of State Budget Director is an agency created by statute.  [KRS 11.068](statutes/KRS _ 11.068.pdf).  The Director is appointed by the Governor and serves at the Governor's pleasure.  KRS 11.040.  The state budget director serves on the Governor's executive cabinet. [KRS 11.065](statutes/KRS _ 11.065.pdf).  The Cabinet meets on the call of the Governor, but no less than once every two months.  [KRS 11.065](statutes/KRS _ 11.065.pdf).  The state budget director is one of the Governor's "major assistants" and "shall assist the Governor in the proper operation of the office."  [KRS 11.065](statutes/KRS _ 11.065.pdf).  Being one of the Cabinet, the Office of State Budget shall "advise and consult with the Governor on all matters affecting the welfare of the State."  [KRS 11.065](statutes/KRS _ 11.065.pdf).
+
+The OSB has the following functions, but they are exclusive:
+
+1. Functions relative to the preparation, administration, and evaluation of the executive budget as
+provided in KRS Chapters 45 and 48 and in other laws, including but not limited to, capital
+construction budgeting, **evaluation of state programs, program monitoring**, financial and policy
+analysis and issue review, and **executive policy implementation and compliance**;
+2. **Continuous evaluation** of statewide management and administrative procedures and practices,
+including but not limited to, organizational analysis and review, economic forecasting, technical
+assistance to state agencies, forms control, and special analytic studies as directed by the
+Governor; and
+3. Staff planning functions of the state planning committee and **evaluation of statewide
+management** and administrative practices and procedures.
+
+[KRS 11.068(emphasis added)](statutes/KRS _ 11.068.pdf).  The Office of State Budget is further divided into three additional office:  (1) Office of Policy and Management which assists with budgeting, planning and regulation review; (2) Office for Policy Research which assists with policy research data, information and anlysis; and (3) Office for Economic Analysis which carries out revenue estimating, economic analysis and tax administration.  [KRS 11.068](statutes/KRS _ 11.068.pdf).
+
+
+
+
+
 
 ## Helpful Resources
 | organization                                  | url                                                                                                              | note                                    |
