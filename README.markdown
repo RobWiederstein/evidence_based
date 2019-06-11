@@ -60,10 +60,11 @@ management** and administrative practices and procedures.
 
 
 ## Inventory of Evidence-based Programming
+| state       | statute     | file                                                                                                             |
+|-------------|-------------|------------------------------------------------------------------------------------------------------------------|
+| Washington  | revenue law | https://github.com/RobWiederstein/evidence_based/blob/master/statutes/2014-01-01_wa_inventory.pdf                |
+| Connecticut | budget bill | https://github.com/RobWiederstein/evidence_based/blob/master/statutes/2015-01-01_conn_evidence_based_statute.pdf |
 
-| state      | statute     | file                                                                                              |
-|------------|-------------|---------------------------------------------------------------------------------------------------|
-| Washington | revenue law | https://github.com/RobWiederstein/evidence_based/blob/master/statutes/2014-01-01_wa_inventory.pdf |
 
 
 
