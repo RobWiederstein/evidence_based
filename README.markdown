@@ -67,19 +67,6 @@ management** and administrative practices and procedures.
 | Minnesota   | budget bill | https://github.com/RobWiederstein/evidence_based/blob/master/statutes/2015-01-01_minesota_cost_benefit_inventory_appropriation.pdf |
 
 
-
-
-
-
-
-
-### Pew-MacArthur Results First inventory
-
-### Minnesota
-
-### Mississippi
-
-
 ## Helpful Resources
 | organization                                  | url                                                                                                              | note                                    |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
