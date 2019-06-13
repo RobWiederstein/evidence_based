@@ -7,7 +7,7 @@
 
 According to the [Pew Foundation](https://www.pewtrusts.org/en), "[e]vidence-based policy making uses the best available research and data on program results to inform government budget, policy and management decisions.  It focuses on what works--those programs that rigorous evaluations have shown to achieve positive outcomes." Their 2015 publication, [Legislating Evidence-Based Policymaking:  A look at state laws that support data-driven decision-making](reports/2015-03-01_pew_legislating_evidence_based_policymaking.pdf), showcases many state initiatives and includes Kentucky.
 
-## Legislative Approaches Categorized
+## State Legislative Approaches Categorized
 
 Pew reports that between the years 2004 and 2014, over 100 state statutes passed that promoted the use of evidence-based programs.  They categorized the different legislative approaches across the country and  found that they fell into the following five groups:
 1. Require agencies to inventory and categorize funded programs by their evidence of effectiveness.
@@ -16,9 +16,9 @@ Pew reports that between the years 2004 and 2014, over 100 state statutes passed
 4.  Require the use of evidence-or research-based programs.
 5.  Dedicate funding to evidence-or research-based programs.
 
-There were several key issues that legislators should consider when drafting statutes.  First, "it is important to provide clear definitions and standards for programs and the evidence needed to meet" the standard.  Second, potential areas for legislation should have a "robust evidence base" like criminal justice and mental health.  And third, even high quality, evidence-based programming can fail if implemented poorly.  Setting performance measures and monitoring compliance with program specifications is crucial for success.
+There were several key issues that legislators should consider when drafting statutes.  First, "it is important to provide clear definitions and standards for programs and the evidence needed to meet" the standard.  Second, potential areas for legislation should have a "robust evidence base" like criminal justice and mental health.  And third, even high quality, evidence-based programming can fail if implemented poorly.  Setting performance measures and monitoring compliance with program specifications is crucial for success. However, states have not been the only one active in the area.  The U.S. government also recently passed a major act too.
 
-## Developments US
+## U.S. Commission on Evidence-based Policymaking
 
 The U.S. formed a Commission on Evidence-Based Policymaking (CEPM) by [statute](us/2016-03-30_us_evidence_based_comm_act.pdf) to make recommendations on how to improve government effectiveness through the use data and performance measures. The CEPM was established in March of 2017 and released its final report on September 7, 2017.  The 15 member Commission made 22 unanimous recommendations to the President and Congress.
 
@@ -43,13 +43,13 @@ In table 2, titled "Budget Agency Functions", NASBO lists all the budget offices
 
 NASBO has dedicated a webpage to evidence-based initiatives.  On its [webpage](https://www.nasbo.org/reports-data/using-data-and-evidence), an inventory of states' evidence-based initiatives may be downloaded.  In this inventory ten states (plus DC) reported having at least one initiative that could be characterized as an evidence-based policymaking initiative.
 
-When looking at those primarily located in the budget office, almost all are partnerships with [Results First](https://www.pewtrusts.org/en/projects/pew-macarthur-results-first-initiative) (e.g., Colorado, Minnesota, North Carolina and Rhode Island). These states’ budget offices all have staff resources partially or fully dedicated to overseeing Results First projects in their states.  Many other states have partnered with the Pew-MacArthur Results First Initiative, but in those cases, the effort is housed in a single agency - like a Department of Corrections, the legislature, or another entity.
+When looking at those primarily located in the budget office, almost all are partnerships with [Results First](https://www.pewtrusts.org/en/projects/pew-macarthur-results-first-initiative) (e.g., Colorado, Minnesota, North Carolina and Rhode Island). These states’ budget offices all have staff resources partially or fully dedicated to overseeing Results First projects in their states.  Many other states have partnered with the Pew-MacArthur Results First Initiative, but in those cases, the effort is housed in a single agency - like a Department of Corrections, the legislature, or another entity.  In addition to the above, NASBO also has an extremely useful [resources guide](reports/2018-10-01_nasbo_resource_guide.pdf).
 
 ## Kentucky
 
 ### Office of State Budget
 
-The Office of State Budget Director is an agency created by statute.  [KRS 11.068](statutes/KRS_11.068.pdf).  The Director is appointed by the Governor and serves at the Governor's pleasure.  KRS 11.040.  The state budget director serves on the Governor's executive cabinet. [KRS 11.065](statutes/KRS_11.065.pdf).  The Cabinet meets on the call of the Governor, but no less than once every two months.  [KRS 11.065](statutes/KRS_11.065.pdf).  The state budget director is one of the Governor's "major assistants" and "shall assist the Governor in the proper operation of the office."  [KRS 11.065](statutes/KRS_11.065.pdf).  Being one of the Cabinet, the Office of State Budget shall "advise and consult with the Governor on all matters affecting the welfare of the State."  [KRS 11.065](statutes/KRS_11.065.pdf).
+The Office of State Budget Director is an agency created by statute.  [KRS 11.068](statutes/KRS_11.068.pdf).  The Director is appointed by the Governor and serves at the Governor's pleasure.  KRS 11.040.  The state budget director serves on the Governor's executive cabinet. [KRS 11.065](statutes/KRS_11.065.pdf).  The Cabinet meets on the call of the Governor, but no less than once every two months.  [KRS 11.065](statutes/KRS_11.065.pdf).  The state budget director is one of the Governor's "major assistants" and "shall assist the Governor in the proper operation of the office."  [KRS 11.065](statutes/KRS_11.065.pdf).  Being a member of the Cabinet, the Office of State Budget shall "advise and consult with the Governor on all matters affecting the welfare of the State."  [KRS 11.065](statutes/KRS_11.065.pdf).
 
 The OSB has the following functions, but they are exclusive:
 
