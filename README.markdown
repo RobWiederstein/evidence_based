@@ -35,6 +35,15 @@ The Act requires that
 - each agency develop and maintain an inventory of all data assets; and
 - a Chief Data Council be established with the Office of Management and Budget for establishing government-wide best practices for data.
 
+## NASBO
+
+The National Association of State Budget Officers (NASBO) is comprised of representatives of all fifty states.  NASBO [Budget Processes in the States](reports/2015-03-31_nasbo_budget_processes_in_the_states.pdf) provides comparative analysis in state budgeting practices which was last completed in 2015. The findings are based on the results from a field survey conducted by NASBO in the fall of 2014. The surveys were completed by executive state budget officers in all 50 states.
+
+In table 2, titled "Budget Agency Functions", NASBO lists all the budget offices various functions.  Specifically, agencies were first listed as having "coordination of statewide performance measures".  Thirty-seven (37) state budget offices were assigned that responsibility, but Kentucky was not.  The next category of interest was titled "program evaluation."  Forty-two (42) state budget offices were assigned that responsibility, but Kentucky was not.
+
+NASBO has dedicated a webpage to evidence-based initiatives.  On its [webpage](https://www.nasbo.org/reports-data/using-data-and-evidence), an inventory of states' evidence-based initiatives may be downloaded.  In this inventory ten states (plus DC) reported having at least one initiative that could be characterized as an evidence-based policymaking initiative.
+
+When looking at those primarily located in the budget office, almost all are partnerships with [Results First](https://www.pewtrusts.org/en/projects/pew-macarthur-results-first-initiative) (e.g., Colorado, Minnesota, North Carolina and Rhode Island). These states’ budget offices all have staff resources partially or fully dedicated to overseeing Results First projects in their states.  Many other states have partnered with the Pew-MacArthur Results First Initiative, but in those cases, the effort is housed in a single agency - like a Department of Corrections, the legislature, or another entity.
 
 ## Kentucky
 
@@ -56,6 +65,10 @@ Governor; and
 management** and administrative practices and procedures.
 
 [KRS 11.068(emphasis added)](statutes/KRS_11.068.pdf).  The Office of State Budget is further divided into three additional office:  (1) Office of Policy and Management which assists with budgeting, planning and regulation review; (2) Office for Policy Research which assists with policy research data, information and anlysis; and (3) Office for Economic Analysis which carries out revenue estimating, economic analysis and tax administration.  [KRS 11.068](statutes/KRS_11.068.pdf).
+
+### Department of Corrections Evidence-based initiative
+
+
 
 
 
