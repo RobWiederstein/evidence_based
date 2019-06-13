@@ -111,6 +111,7 @@ Additionally, the cost-benefit was for every $1 in cost there were $3.90 in bene
 |North Carolina   | budget bill   |https://github.com/RobWiederstein/evidence_based/blob/master/statutes/2017-01-01_nc_budget_appropriation.pdf   |
 |North Carolina   | exec. order  | https://github.com/RobWiederstein/evidence_based/blob/master/statutes/2018-05-18_nc_exec_order.pdf   |
 |Tennessee   |  statute   |  https://github.com/RobWiederstein/evidence_based/blob/master/statutes/2001-06-12_tennessee_pc_0585.pdf |
+|New Mexico   | statute  |  https://github.com/RobWiederstein/evidence_based/blob/master/statutes/2019-01-01_nm_evidence_based_act.pdfunnamed%20document.pdf |
 
 
 ## Helpful Resources
