@@ -68,8 +68,8 @@ management** and administrative practices and procedures.
 
 ### Department of Corrections Evidence-based initiative
 
-Due to the growing prisoner population, Kentucky enacted criminal justice reform in 2012 known as "HB 463".  Its enactment was controversial at the time.  As a part of the reforms, the bill required programs funded by the Department of Corrections to use "evidence-based" practices.  The act was codified at KRS 196.111.  "Evidence-based" was defined as a practice that "scientific research demonstrates [to] reduce recidivism among inmates and individuals . . . when implemented competently."  [KRS 196.111(1)](statutes/KRS_196.111.pdf).  Monies were to be shifted away from programming that did not reduce recidivism toward
-programming that would.
+In 2010, the Kentucky legislature established the bipartisan, inter-branch task force on
+the Penal Code and Controlled Substances Act.  Due to the growing prisoner population, Kentucky enacted criminal justice reform in 2012 known as "HB 463".  Its enactment was controversial at the time.  As a part of the reforms, the bill required programs funded by the Department of Corrections to use "evidence-based" practices.  The act was codified at KRS 196.111.  "Evidence-based" was defined as a practice that "scientific research demonstrates [to] reduce recidivism among inmates and individuals . . . when implemented competently."  [KRS 196.111(1)](statutes/KRS_196.111.pdf).  Monies were to be shifted away from programming that did not reduce recidivism toward programming that would. The DOC annual report on the HB 463 forms can be found [here](statutes/KRS_196.111.pdf).
 
 A recent evaluation was completed of Kentucky's substance abuse programs. The summary of the report stated:
 
