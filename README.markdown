@@ -68,8 +68,22 @@ management** and administrative practices and procedures.
 
 ### Department of Corrections Evidence-based initiative
 
+Due to the growing prisoner population, Kentucky enacted criminal justice reform in 2012 known as "HB 463".  Its enactment was controversial at the time.  As a part of the reforms, the bill required programs funded by the Department of Corrections to use "evidence-based" practices.  The act was codified at KRS 196.111.  "Evidence-based" was defined as a practice that "scientific research demonstrates [to] reduce recidivism among inmates and individuals . . . when implemented competently."  [KRS 196.111(1)](statutes/KRS_196.111.pdf).  Monies were to be shifted away from programming that did not reduce recidivism toward
+programming that would.
 
+A recent evaluation was completed of Kentucky's substance abuse programs. The summary of the report stated:
 
+>The Criminal Justice Kentucky Treatment Outcome Study (CJKTOS) examined substance abuse outcomes of state offenders participating in substance abuse treatment programs in Kentucky’s prisons, jails, and community custody settings. This report includes data collected during FY2018 for 344 randomly selected participants who entered Department of Corrections (DOC) substance abuse treatment programs (SAP), participated in an intake assessment by treatment counselors, and were followed-up 12-months later in the community following their treatment completion and release from custody. This report includes data collected during FY2018 from July 1, 2017 to June 30, 2018.
+
+The reported outcomes were:
+- 56.7% had not been re-incarcerated.
+- 86.0% were living in stable housing.
+- 62.5% were employed.
+- 77.9% reported providing financial support to their children.
+- 48.0% did not use any illicit substances in the year since release.
+- 71.5% attended 12-Step meetings.
+
+Additionally, the cost-benefit was for every $1 in cost there were $3.90 in benefits.
 
 
 ## Inventory of Evidence-based Programming
