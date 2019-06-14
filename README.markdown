@@ -3,26 +3,27 @@
 
 - [Minnesota Evidence-based Inventory](https://mn.gov/mmb/results-first/inventory/)
 
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+<!-- TOC -->
 
-	- [What is evidence-based policymaking?](#what-is-evidence-based-policymaking)
-	- [State Legislative Approaches Categorized](#state-legislative-approaches-categorized)
-	- [U.S. Commission on Evidence-based Policymaking](#us-commission-on-evidence-based-policymaking)
-	- [Foundations for Evidence-Based Policy Act](#foundations-for-evidence-based-policy-act)
-	- [NASBO](#nasbo)
-	- [Kentucky](#kentucky)
-		- [Office of State Budget](#office-of-state-budget)
-		- [Department of Corrections Evidence-based initiative](#department-of-corrections-evidence-based-initiative)
-	- [Inventory of Evidence-based Programming](#inventory-of-evidence-based-programming)
-	- [Helpful Resources](#helpful-resources)
+- [What is evidence-based policymaking?](#what-is-evidence-based-policymaking)
+- [State Initiatives](#state-initiatives)
+- [Federal Initiatives](#federal-initiatives)
+- [Foundations for Evidence-Based Policy Act](#foundations-for-evidence-based-policy-act)
+- [NASBO](#nasbo)
+- [Kentucky](#kentucky)
+        - [Office of State Budget](#office-of-state-budget)
+        - [Department of Corrections Evidence-based initiative](#department-of-corrections-evidence-based-initiative)
+- [Inventory of Evidence-based Programming](#inventory-of-evidence-based-programming)
+- [Helpful Resources](#helpful-resources)
 
 <!-- /TOC -->
+
 
 ## What is evidence-based policymaking?
 
 According to the [Pew Foundation](https://www.pewtrusts.org/en), "[e]vidence-based policy making uses the best available research and data on program results to inform government budget, policy and management decisions.  It focuses on what works--those programs that rigorous evaluations have shown to achieve positive outcomes." Their 2015 publication, [Legislating Evidence-Based Policymaking:  A look at state laws that support data-driven decision-making](reports/2015-03-01_pew_legislating_evidence_based_policymaking.pdf), showcases many state initiatives and includes Kentucky.
 
-## State Legislative Approaches Categorized
+## State Initiatives
 
 Pew reports that between the years 2004 and 2014, over 100 state statutes passed that promoted the use of evidence-based programs.  They categorized the different legislative approaches across the country and  found that they fell into the following five groups:
 1. Require agencies to inventory and categorize funded programs by their evidence of effectiveness.
@@ -33,7 +34,7 @@ Pew reports that between the years 2004 and 2014, over 100 state statutes passed
 
 There were several key issues that legislators should consider when drafting statutes.  First, "it is important to provide clear definitions and standards for programs and the evidence needed to meet" the standard.  Second, potential areas for legislation should have a "robust evidence base" like criminal justice and mental health.  And third, even high quality, evidence-based programming can fail if implemented poorly.  Setting performance measures and monitoring compliance with program specifications is crucial for success. However, states have not been the only one active in the area.  The U.S. government also recently passed a major act too.
 
-## U.S. Commission on Evidence-based Policymaking
+## Federal Initiatives
 
 The U.S. formed a Commission on Evidence-Based Policymaking (CEPM) by [statute](us/2016-03-30_us_evidence_based_comm_act.pdf) to make recommendations on how to improve government effectiveness through the use data and performance measures. The CEPM was established in March of 2017 and released its final report on September 7, 2017.  The 15 member Commission made 22 unanimous recommendations to the President and Congress.
 
