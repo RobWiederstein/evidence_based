@@ -122,10 +122,12 @@ Additionally, the cost-benefit was for every $1 in cost there were $3.90 in bene
 | California Evidence-based Clearinghouse       | https://www.cebc4cw.org                                                                                          | Child welfare.                          |
 | Center for Evidence-Based Crime Policy        | https://cebcp.org                                                                                                | George Mason Univ.                      |
 | Center for the Prevention & Study of Violence | https://cspv.colorado.edu                                                                                        | Emphasis on kids.                       |
+| Colorado Results First Initiative             | https://sites.google.com/state.co.us/rfpfs/home?authuser=0                                                       | Inventory.                              |
 | Crime Solutions                               | https://crimesolutions.gov                                                                                       | Office of justice programs              |
 | Evidence-Based Policymaking Collaborative     | https://www.evidencecollaborative.org                                                                            | Urban Instit.                           |
 | Evidence-Based Policymaking Initiative        | https://bipartisanpolicy.org/topics/evidence/                                                                    | Bipartisan Policy Center                |
 | Institute on Violence & Destructive Behavior  | https://education.uoregon.edu/rou/institute-violence-and-destructive-behavior                                    | Education oriented.                     |
+| J-Pal                                         | https://www.povertyactionlab.org/stateandlocal                                                                   | RCT grants.                             |
 | Minnesota Evidence-based Inventory            | https://mn.gov/mmb/results-first/inventory/                                                                      | Inventory.                              |
 | Nat. Assoc. of State Budget Officers          | https://www.nasbo.org/reports-data/using-data-and-evidence                                                       | State initiatives.                      |
 | Results First Clearinghouse                   | https://www.pewtrusts.org/en/research-and-analysis/data-visualizations/2015/results-first-clearinghouse-database | Inventory.                              |
