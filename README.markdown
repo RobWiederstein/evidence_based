@@ -105,14 +105,16 @@ Additionally, the cost-benefit was for every $1 in cost there were $3.90 in bene
 ## Inventory of Evidence-based Programming
 | state       | statute     | file                                                                                                                               |
 |-------------|-------------|------------------------------------------------------------------------------------------------------------------------------------|
-| Washington  | revenue law | https://github.com/RobWiederstein/evidence_based/blob/master/statutes/2014-01-01_wa_inventory.pdf                                  |
-| Connecticut | budget bill | https://github.com/RobWiederstein/evidence_based/blob/master/statutes/2015-01-01_conn_evidence_based_statute.pdf                   |
-| Minnesota   | budget bill | https://github.com/RobWiederstein/evidence_based/blob/master/statutes/2015-01-01_minesota_cost_benefit_inventory_appropriation.pdf |
 |Alabama      | statute     | https://github.com/RobWiederstein/evidence_based/blob/master/statutes/2019-06-12_alabama_HB537.pdf  |
+|Connecticut | budget bill | https://github.com/RobWiederstein/evidence_based/blob/master/statutes/2015-01-01_conn_evidence_based_statute.pdf                   |
+|Minnesota   | budget bill | https://github.com/RobWiederstein/evidence_based/blob/master/statutes/2015-01-01_minesota_cost_benefit_inventory_appropriation.pdf |
+|Mississippi   | statute   |  https://github.com/RobWiederstein/evidence_based/blob/master/statutes/2014-01-01_ms_27_103_159.pdf   |
+|New Mexico   | statute  |  https://github.com/RobWiederstein/evidence_based/blob/master/statutes/2019-01-01_nm_evidence_based_act.pdfunnamed%20document.pdf |
 |North Carolina   | budget bill   |https://github.com/RobWiederstein/evidence_based/blob/master/statutes/2017-01-01_nc_budget_appropriation.pdf   |
 |North Carolina   | exec. order  | https://github.com/RobWiederstein/evidence_based/blob/master/statutes/2018-05-18_nc_exec_order.pdf   |
+|Oregon   | statute   | https://github.com/RobWiederstein/evidence_based/blob/master/statutes/2003-01-01_oregon_sb267.pdf  |
 |Tennessee   |  statute   |  https://github.com/RobWiederstein/evidence_based/blob/master/statutes/2001-06-12_tennessee_pc_0585.pdf |
-|New Mexico   | statute  |  https://github.com/RobWiederstein/evidence_based/blob/master/statutes/2019-01-01_nm_evidence_based_act.pdfunnamed%20document.pdf |
+|Washington  | revenue law | https://github.com/RobWiederstein/evidence_based/blob/master/statutes/2014-01-01_wa_inventory.pdf                                  |
 
 
 ## Helpful Resources
